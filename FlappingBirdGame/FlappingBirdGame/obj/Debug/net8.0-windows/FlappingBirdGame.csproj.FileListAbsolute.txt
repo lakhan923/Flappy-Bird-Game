@@ -1,0 +1,17 @@
+C:\Users\laaai\Desktop\Bird Game\FlappingBirdGame\FlappingBirdGame\bin\Debug\net8.0-windows\FlappingBirdGame.exe
+C:\Users\laaai\Desktop\Bird Game\FlappingBirdGame\FlappingBirdGame\bin\Debug\net8.0-windows\FlappingBirdGame.deps.json
+C:\Users\laaai\Desktop\Bird Game\FlappingBirdGame\FlappingBirdGame\bin\Debug\net8.0-windows\FlappingBirdGame.runtimeconfig.json
+C:\Users\laaai\Desktop\Bird Game\FlappingBirdGame\FlappingBirdGame\bin\Debug\net8.0-windows\FlappingBirdGame.dll
+C:\Users\laaai\Desktop\Bird Game\FlappingBirdGame\FlappingBirdGame\bin\Debug\net8.0-windows\FlappingBirdGame.pdb
+C:\Users\laaai\Desktop\Bird Game\FlappingBirdGame\FlappingBirdGame\obj\Debug\net8.0-windows\FlappingBirdGame.Form1.resources
+C:\Users\laaai\Desktop\Bird Game\FlappingBirdGame\FlappingBirdGame\obj\Debug\net8.0-windows\FlappingBirdGame.Properties.Resources.resources
+C:\Users\laaai\Desktop\Bird Game\FlappingBirdGame\FlappingBirdGame\obj\Debug\net8.0-windows\FlappingBirdGame.csproj.GenerateResource.cache
+C:\Users\laaai\Desktop\Bird Game\FlappingBirdGame\FlappingBirdGame\obj\Debug\net8.0-windows\FlappingBirdGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laaai\Desktop\Bird Game\FlappingBirdGame\FlappingBirdGame\obj\Debug\net8.0-windows\FlappingBirdGame.AssemblyInfoInputs.cache
+C:\Users\laaai\Desktop\Bird Game\FlappingBirdGame\FlappingBirdGame\obj\Debug\net8.0-windows\FlappingBirdGame.AssemblyInfo.cs
+C:\Users\laaai\Desktop\Bird Game\FlappingBirdGame\FlappingBirdGame\obj\Debug\net8.0-windows\FlappingBirdGame.csproj.CoreCompileInputs.cache
+C:\Users\laaai\Desktop\Bird Game\FlappingBirdGame\FlappingBirdGame\obj\Debug\net8.0-windows\FlappingBirdGame.dll
+C:\Users\laaai\Desktop\Bird Game\FlappingBirdGame\FlappingBirdGame\obj\Debug\net8.0-windows\refint\FlappingBirdGame.dll
+C:\Users\laaai\Desktop\Bird Game\FlappingBirdGame\FlappingBirdGame\obj\Debug\net8.0-windows\FlappingBirdGame.pdb
+C:\Users\laaai\Desktop\Bird Game\FlappingBirdGame\FlappingBirdGame\obj\Debug\net8.0-windows\FlappingBirdGame.genruntimeconfig.cache
+C:\Users\laaai\Desktop\Bird Game\FlappingBirdGame\FlappingBirdGame\obj\Debug\net8.0-windows\ref\FlappingBirdGame.dll
